@@ -1,0 +1,27 @@
+/*
+Theme Name: Lightfast Child
+Theme URI: http://www.simplethemes.com/wordpress-themes/theme/lightfast
+Description: Lightfast Child theme. Use this child theme to safely make modifications to the existing theme. Using a child theme ensures that you do not lose the modifications with theme updates.
+Version: 1.0.0
+Author: Simple Themes
+Author URI: http://www.simplethemes.com
+Template: lightfast
+*/
+
+
+/*
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+This child theme enables you to make customizations while allowing for safe updates to the parent theme.
+The parent theme's style.css is imported below. If you wish to make customizations, do one of the following:
+
+Option A.) Remove the import below, and copy the contents of lightfast/style.css into this file, but leave the (above) child theme head in tact!
+Option B.) Add specific rules BELOW the import. This is intended for minimal customizations.
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+*/
+
+@import url("../lightfast/style.css");
