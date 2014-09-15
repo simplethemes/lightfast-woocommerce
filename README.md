@@ -8,9 +8,9 @@ Sample child theme which includes the basic functions for wrapping and integrati
 
 ### Instructions
 
-If your starting fresh with Lightfast and WooCommerce, you can install this theme directly.
+If you're starting fresh with Lightfast and WooCommerce, you can install and activate this theme as normal.
 
-If you already have a customized Lightfast child theme instaled, you may not want to overwrite yours. In this case, take note of the files in this package and what they represent:
+If you already have a customized Lightfast child theme installed, you may not want to overwrite yours. In this case, take note of the files in this package and what they represent:
 
 
 * __functions.php__
